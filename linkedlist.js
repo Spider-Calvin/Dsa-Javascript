@@ -131,3 +131,10 @@ linkedListFunction.addAt(2, 5)
 linkedListFunction.removeAt(3)
 
 linkedListFunction.print()
+
+//! practice problems links
+//* https://leetcode.com/problems/palindrome-linked-list/
+//* https://leetcode.com/problems/reverse-linked-list/
+//* https://leetcode.com/problems/delete-node-in-a-linked-list/
+//* https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+//* https://leetcode.com/problems/add-two-numbers/
